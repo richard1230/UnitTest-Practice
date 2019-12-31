@@ -1,5 +1,6 @@
 public class Solution {
     public static int add(int a, int b) {
+        System.out.println("你改对了！！！");
         return a + b;
     }
 
